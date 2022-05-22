@@ -4,4 +4,4 @@ a = {1:{
 b = {1:3}
 print(a[1].key())
 
-print("111")
+print("000")
