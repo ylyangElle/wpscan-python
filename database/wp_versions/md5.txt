@@ -1,0 +1,1 @@
+#判断wp的版本可通过计算比如icon或readme file的md5值进行匹配
