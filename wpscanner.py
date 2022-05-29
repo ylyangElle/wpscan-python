@@ -10,7 +10,7 @@ from AuxiliaryModule.clean_cache import *
 #参数输入
 #先跳过
 #url = "http://162.14.97.39/wordpress/"
-url= "https://www.zhangxinxu.com/wordpress/"
+#url= "https://www.zhangxinxu.com/wordpress/"
 #url = "https://hosekdentistry.com"
 url = "http://wordy"
 #用户输入

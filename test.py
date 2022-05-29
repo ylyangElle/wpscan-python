@@ -1,3 +1,1 @@
-<?php
-
-?>
+from Exploit.exploit import *
