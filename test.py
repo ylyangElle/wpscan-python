@@ -1,3 +1,5 @@
-from Exploit.exp import exp_50110
+from ExploitModule.exploit import Exploit
 
-exp_50110.Exploit_50110()
+if __name__ == '__main__':
+    a = Exploit()
+    a.exploit_ing()
